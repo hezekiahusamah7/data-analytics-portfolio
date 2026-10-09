@@ -19,7 +19,7 @@ An end-to-end logistics analytics project focused on:
 **Tools Used:** Excel, Power BI, Power Query, DAX
 
 🔗 Project Repository:
-(Will be added after the project repository is created)
+Coming Soon
 
 ---
 
